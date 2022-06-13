@@ -3,7 +3,7 @@
     "contentVersion":  "1.0.0.0",
     "parameters":  {
         "PlaybookName":  {
-            "defaultValue":  "Codemotion_SOAR_demo",
+            "defaultValue":  "Codemotion_demo_SOAR",
             "type":  "string"
         }
     },
