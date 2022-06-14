@@ -3,9 +3,9 @@ Deploy Microsoft Sentinel as-a-code
 
 https://docs.microsoft.com/en-us/azure/sentinel/ci-cd?tabs=github
 
-***disclaimer****
+********disclaimer********
 
 This repo is just for testing demo porpouse.
 
-In the next future, I have plan to develop it to be used in PoC/Pilot environment.
+In the next future, I have plan to develop it to be used in PoC/Pilot environments.
 Stay tuned :)
